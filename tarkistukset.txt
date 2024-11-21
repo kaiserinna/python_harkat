@@ -1,0 +1,31 @@
+2023-11-14_10-45-53
+================================================================================
+/Users/kake/Documents/LUT/Ohjelmoinnin perusteet/HTPerus.py
+HTPerus.py
+
+Perustoiminnot: Ei tunnistettu tyylirikkomuksia.
+
+Aliohjelmat: Ei tunnistettu tyylirikkomuksia.
+
+Tiedostonkäsittely: Ei tunnistettu tyylirikkomuksia.
+
+Tietorakenteet: Ei tunnistettu tyylirikkomuksia.
+
+Kirjaston käyttö: Ei tunnistettu tyylirikkomuksia.
+
+Poikkeustenkäsittely: Ei tunnistettu tyylirikkomuksia.
+================================================================================
+/Users/kake/Documents/LUT/Ohjelmoinnin perusteet/HTPerusKirjasto.py
+HTPerusKirjasto.py
+
+Perustoiminnot: Ei tunnistettu tyylirikkomuksia.
+
+Aliohjelmat: Ei tunnistettu tyylirikkomuksia.
+
+Tiedostonkäsittely: Ei tunnistettu tyylirikkomuksia.
+
+Tietorakenteet: Ei tunnistettu tyylirikkomuksia.
+
+Kirjaston käyttö: Ei tunnistettu tyylirikkomuksia.
+
+Poikkeustenkäsittely: Ei tunnistettu tyylirikkomuksia.

@@ -1,0 +1,19 @@
+Analyysin tulokset 366 päivältä ovat seuraavat:
+Kävijämäärä koko vuonna yhteensä oli 479394.
+Päivittäinen kävijämäärä oli keskimäärin 1309.8.
+Eniten kävijöitä oli 09.09.2016, 10798 kpl.
+Vähiten kävijöitä oli 12.01.2016, 12 kpl.
+
+Kuukausittaiset kävijämäärät (Kk;Lukumäärä):
+Kk 01;3553
+Kk 02;8420
+Kk 03;18108
+Kk 04;16429
+Kk 05;59352
+Kk 06;77746
+Kk 07;143900
+Kk 08;71532
+Kk 09;45679
+Kk 10;22781
+Kk 11;4749
+Kk 12;7145

@@ -1,0 +1,8 @@
+Viikonpäivä;Sadekertymä
+Maanantai;2.2
+Tiistai;0.0
+Keskiviikko;1.9
+Torstai;0.0
+Perjantai;0.0
+Lauantai;0.0
+Sunnuntai;0.0

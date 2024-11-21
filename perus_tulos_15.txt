@@ -1,0 +1,12 @@
+Kategoria;Päivien lukumäärä:
+Kategoria 1;0
+Kategoria 2;2
+Kategoria 3;1
+Kategoria 4;1
+
+Kaikki päivittäiset sademäärät:
+Pvm;mm
+01.01.2016;0.0
+04.01.2016;0.6
+18.01.2016;1.6
+20.04.2016;1.9

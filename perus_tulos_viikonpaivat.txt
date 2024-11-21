@@ -1,0 +1,8 @@
+Viikonpäivä;Sadekertymä
+Maanantai;83.1
+Tiistai;81.6
+Keskiviikko;82.3
+Torstai;154.2
+Perjantai;70.5
+Lauantai;126.4
+Sunnuntai;95.6
